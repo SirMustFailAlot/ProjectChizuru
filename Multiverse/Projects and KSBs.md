@@ -32,6 +32,8 @@ Before we go into the Projects, below is a list of the KSBs that are involved in
 - [K2 (AM2)](#K2)
 - [K3 & S2 (AM1)](#K3S2)
 - [K4 (AM1)](#K4)
+- [K5 (AM2)](#K5)
+- [K6 (AM2)](#K6)
 
 ### K1 & B1 (AM2) <a name="K1B1"></a>
 
@@ -161,19 +163,21 @@ Below are questions you can ask yourself to make sure you have fully evidenced K
 | K6       | Describes the fundamentals of data structures and database system design and explains how they are implemented and maintained | N/A |
 
 #### Portfolio Evidence Requirements
-You should be able to explain your data, taking into account its structure, how that impacts the decisions you make in your analysis, and any risks you have to mitigate because of the structure. 
+When you explain the data you use for analysis, you should be able to explain what kind of database the data comes from, how this affects how you access your data. For example, if you use a relational database or NoSQL you should be able to define the database structure, how it is stored in those areas, and how you access the data there. 
 
-When explaining your data it is important to show an understanding of both structured and unstructured data. Even if your evidence is only one type of structure, you need to explain why it is not the other type of structure. For example, the data you work with in a SQL database is structured. You define what structured data is and then explain how you know this data is structured. You should then define what unstructured data is and then why your data is not unstructured.  You should be able to describe examples of both types of data.
+In your introduction when you explain your business this is a great time to provide details on your organization’s database. Creating an ERD is also a great way to show your understanding of your data. 
 
 #### Marking the Projects
 | KSB | Description | Met | Even Better If |
 | :-- | :-- | :-- | :-- |
-| K6 |  |  |  |
+| K6 | The fundamentals of data structures, database system design, implementation and maintenance | Describes the fundamentals of data structures and database system design and explains how they are implemented and maintained |  |
 
 #### Questions to Ask Yourself to Super-Charge Your Portfolio
-Below are questions you can ask yourself to make sure you have fully evidenced K5:
-- You must define the differences between structured and unstructured data.
-- Can you give an example of structured data from your organisation?
-- Can you give an example of unstructured data from your organisation?
-- Can you identify if you are working with structured or unstructured data?
-- Can you discuss the challenges of analysing unstructured data?
+Below are questions you can ask yourself to make sure you have fully evidenced K6:
+- Can you give an overview of a relational database and how it works? 
+- How does this link to your data access and use?
+- How are databases implemented and maintained? How is this carried out in your organisation? How do you specifically implement and maintain them?
+- Can you explain the structure of your organisation’s database? Is it a relational database or a NoSQL database?
+- Do you have an ERD of your organisation’s database that you can include in your portfolio? If not, have you created one?
+- Can you explain how your organisation’s database is maintained?
+- Can you explain the principle of normalisation and how, if you’ve applied it?
