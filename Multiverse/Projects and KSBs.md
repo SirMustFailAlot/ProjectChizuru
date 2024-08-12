@@ -5,7 +5,7 @@ Throughout the Multiverse Apprenticeship, you will be working with Projects wher
 
 This document is to help aid with the creation of Projects and to ensure that we've not only met KSB standards but also exceed them.
 
-## <a name = "AssessmentMethods"> Assessment Methods </a>
+## Assessment Methods <a id="AssessmentMethods"></a>
 The way you will show the KSBs is through a main work-based project (Assessment Method 1) and through a series of projects within a portfolio (Assessment Method 2). Below is an explaination of each of the assessment methods.
 
 ### Assessment Method 1: Work-based Project
@@ -59,7 +59,7 @@ Before we go into the Projects, below is a list of the KSBs that are involved in
 - [B6 (AM2)](#B6)
 - [B7 (AM2)](#B7)
 
-### <a name="K1B1">K1 & B1 (AM2)</a>
+### K1 & B1 (AM2) <a id="K1B1"></a>
 
 | Standard | Grading Criteria | Distinction |
 |:---------|:-----------------|:------------|
@@ -89,7 +89,7 @@ Below are questions you can ask yourself to make sure you have fully evidenced K
 - How are you working to ensure that you are in line with your organisation’s data policies?
 - How do you work with stakeholders to manage their requirements/interests?
 
-### <a name="K2">K2 (AM2)</a>
+### K2 (AM2) <a id="K2"></a>
 
 | Standard | Grading Criteria | Distinction |
 |:---------|:-----------------|:------------|
@@ -114,7 +114,7 @@ Below are questions you can ask yourself to make sure you have fully evidenced K
 - How do you access data based on your organisation’s information security standards?
 - What are the data standards to be reached in your organisation?
 
-### <a name="K3S2">K3 + S2 (AM1)</a>
+### K3 + S2 (AM1) <a id="K3S2"></a>
 
 | Standard | Grading Criteria | Distinction |
 |:---------|:-----------------|:------------|
@@ -134,7 +134,7 @@ Below are questions you can ask yourself to make sure you have fully evidenced K
 - How would the project outcome differ if one of the steps in the data analysis life cycle was omitted?
 - How did you validate the findings from your analysis against the project objectives?
 
-### <a name="K4">K4 (AM1)</a>
+### K4 (AM1) <a id="K4"></a>
 
 | Standard | Grading Criteria | Distinction |
 |:---------|:-----------------|:------------|
@@ -156,7 +156,7 @@ Below are questions you can ask yourself to make sure you have fully evidenced K
 - What are the ethical considerations when using public vs. private data? 
 - How did the choice of data type influence your project's design and outcomes?
 
-### <a name="K5">K5 (AM2)</a>
+### K5 (AM2) <a id="K5"></a>
 
 | Standard | Grading Criteria | Distinction |
 |:---------|:-----------------|:------------|
@@ -180,7 +180,7 @@ Below are questions you can ask yourself to make sure you have fully evidenced K
 - Can you identify if you are working with structured or unstructured data?
 - Can you discuss the challenges of analysing unstructured data?
 
-### <a name="K6">K6 (AM2)</a>
+### K6 (AM2) <a id="K6"></a>
 
 | Standard | Grading Criteria | Distinction |
 |:---------|:-----------------|:------------|
@@ -206,7 +206,7 @@ Below are questions you can ask yourself to make sure you have fully evidenced K
 - Can you explain how your organisation’s database is maintained?
 - Can you explain the principle of normalisation and how, if you’ve applied it?
 
-### <a name="K7">K7 (AM2)</a>
+### K7 (AM2) <a id="K7"></a>
 
 | Standard | Grading Criteria | Distinction |
 |:---------|:-----------------|:------------|
@@ -234,7 +234,7 @@ Below are questions you can ask yourself to make sure you have fully evidenced K
 - How do you work to ensure your analysis meets your stakeholder’s needs?
 - Do you understand what the term ‘domain context’ refers to?
 
-### <a name="K8S6">K8 + S6 (AM1)</a>
+### K8 + S6 (AM1) <a id="K8S6"></a>
 
 | Standard | Grading Criteria | Distinction |
 |:---------|:-----------------|:------------|
@@ -255,7 +255,7 @@ Below are questions you can ask yourself or points to make to ensure you have fu
 - Evaluate the outcome of your data analysis
 - Suggest alternate tools/methods that would benefit all stakeholders
 
-### <a name="K9S7">K9 + S7 (AM1)</a>
+### K9 + S7 (AM1) <a id="K9S7"></a>
 
 | Standard | Grading Criteria | Distinction |
 |:---------|:-----------------|:------------|
@@ -274,7 +274,7 @@ Below are questions you can ask yourself or points to make to ensure you have fu
 - How have you analysed the customer requirements to produce analyses that provide an optimum solution? 
 - What were the alternate analyses you considered before deciding on your final plan?
 
-### <a name="K10">K10 (AM2)</a>
+### K10 (AM2) <a id="K10"></a>
 
 | Standard | Grading Criteria | Distinction |
 |:---------|:-----------------|:------------|
@@ -301,7 +301,7 @@ Below are questions you can ask yourself to make sure you have fully evidenced K
 - Can you explain why it’s beneficial to combine datasets together?
 - Identify and discuss any risks associated with combining datasets together
 
-### <a name="K10S15">K11 + S15 (AM1)</a>
+### K11 + S15 (AM1) <a id="K11S15"></a>
 
 | Standard | Grading Criteria | Distinction |
 |:---------|:-----------------|:------------|
@@ -318,7 +318,7 @@ Below are questions you can ask yourself or points to make to ensure you have fu
 - Suggest alternate tools/methods that could have been used to benefit stakeholders
 - Evaluate the outcome of your analysis
 
-### <a name="K12">K12 (AM1)</a>
+### K12 (AM1) <a id="K12"></a>
 
 | Standard | Grading Criteria | Distinction |
 |:---------|:-----------------|:------------|
@@ -334,7 +334,7 @@ Below are questions you can ask yourself to make sure you have fully evidenced K
 - What are the different organisational architecture options, and how does this relate to that used in your organisation?
 - Justify the use of Big Data technologies in your analysis (if relevant)
 
-### <a name="K13S10">K13 + S10 (AM2)</a>
+### K13 + S10 (AM2) <a id="K13S10"></a>
 
 | Standard | Grading Criteria | Distinction |
 |:---------|:-----------------|:------------|
@@ -358,7 +358,7 @@ Below are questions you can ask yourself to make sure you have fully evidenced K
 - Can you describe and apply inferential statistics techniques (e.g Hypothesis testing, statistical significance)?
 - Why is it important to use hypothesis testing?
 
-### <a name="K14S11">K14 + S11 (AM2)</a>
+### K14 + S11 (AM2) <a id="K14S11"></a>
 
 | Standard | Grading Criteria | Distinction |
 |:---------|:-----------------|:------------|
@@ -385,7 +385,7 @@ Below are questions you can ask yourself to make sure you have fully evidenced K
 - Explain if your model shows signs of overfitting/underfitting
 - Relate the results of your model to both predictive and prescriptive analytics (link to K14)
 
-### <a name="K15">K15 (AM2)</a>
+### K15 (AM2) <a id="K15"></a>
 
 | Standard | Grading Criteria | Distinction |
 |:---------|:-----------------|:------------|
@@ -410,7 +410,7 @@ Below are questions you can ask yourself to make sure you have fully evidenced K
 - Can you explain how you considered Type 1 or Type 2 errors when carrying out hypothesis testing ?
 - Can you explain the ethical considerations with using big data / machine learning?
 
-### <a name="S1">S1 (AM1)</a>
+### S1 (AM1) <a id="S1"></a>
 
 | Standard | Grading Criteria | Distinction |
 |:---------|:-----------------|:------------|
@@ -431,7 +431,7 @@ Below are questions you can ask yourself to make sure you have fully evidenced S
 - How do you ensure data security throughout the data lifecycle in your project?
 - Can you describe a scenario where you had to adapt your approach to maintain data security?
 
-### <a name="S3">S3 (AM1)</a>
+### S3 (AM1) <a id="S3"></a>
 
 | Standard | Grading Criteria | Distinction |
 |:---------|:-----------------|:------------|
@@ -449,7 +449,7 @@ Below are questions you can ask yourself to make sure you have fully evidenced S
 - Explain any changes of classification you have had to make during your analysis and why
 - If no changes have been made, explain when and why they would apply
 
-### <a name="S4">S4 (AM1)</a>
+### S4 (AM1) <a id="S4"></a>
 
 | Standard | Grading Criteria | Distinction |
 |:---------|:-----------------|:------------|
@@ -469,7 +469,7 @@ Below are questions you can ask yourself to make sure you have fully evidenced S
 - Talk about the pros and cons of a RDBMS and how this relates to the data sets in your analysis
 - How has combining data with different structures solved a problem or improved the accuracy/efficiency of your analysis?
 
-### <a name="S5">S5 (AM2)</a>
+### S5 (AM2) <a id="S5"></a>
 
 | Standard | Grading Criteria | Distinction |
 |:---------|:-----------------|:------------|
@@ -493,7 +493,7 @@ Below are questions you can ask yourself to make sure you have fully evidenced S
 - How have you considered the user experience?
 - Can you show an example in which it was critical to be aware of your domain context (such as spotting erroneous values)?
 
-### <a name="S8">S8 (AM1)</a>
+### S8 (AM1) <a id="S8"></a>
 
 | Standard | Grading Criteria | Distinction |
 |:---------|:-----------------|:------------|
@@ -510,7 +510,7 @@ Below are questions you can ask yourself to make sure you have fully evidenced S
 - Explain the risks and challenges in relation to combining data in this way
 - Discuss your data sources and where you've got them from, highlighting how they differ
 
-### <a name="S9">S9 (AM2)</a>
+### S9 (AM2) <a id="S9"></a>
 
 | Standard | Grading Criteria | Distinction |
 |:---------|:-----------------|:------------|
@@ -533,7 +533,7 @@ Below are questions you can ask yourself to make sure you have fully evidenced S
 - Can you show how you accessed data from your organisation’s data system and how this impacted your tool choice?
 - Can you explain why you decided to use the particular technique you used in your analysis?
 
-### <a name="S12">S12 (AM1)</a>
+### S12 (AM1) <a id="S12"></a>
 
 | Standard | Grading Criteria | Distinction |
 |:---------|:-----------------|:------------|
@@ -556,7 +556,7 @@ Below are questions you can ask yourself to make sure you have fully evidenced S
 - Discuss how you managed any conflict constructively
 - Explain how you prioritised stakeholder need
 
-### <a name="S13">S13 (AM2)</a>
+### S13 (AM2) <a id="S13"></a>
 
 | Standard | Grading Criteria | Distinction |
 |:---------|:-----------------|:------------|
@@ -583,7 +583,7 @@ Below are questions you can ask yourself to make sure you have fully evidenced S
 - If you tested two models, can you identify which model performs best?
 - Can you deploy the best model and interpret what this tells you/the stakeholder through the forecast?
 
-### <a name="S14">S14 (AM2)</a>
+### S14 (AM2) <a id="S14"></a>
 
 | Standard | Grading Criteria | Distinction |
 |:---------|:-----------------|:------------|
@@ -609,7 +609,7 @@ Below are questions you can ask yourself to make sure you have fully evidenced S
 - Discuss what the chart is actually showing
 - Can you explain why representing the data in the way you have, aids stakeholder understanding?
 
-### <a name="B2">B2 (AM2)</a>
+### B2 (AM2) <a id="B2"></a>
 
 | Standard | Grading Criteria | Distinction |
 |:---------|:-----------------|:------------|
@@ -633,7 +633,7 @@ Below are questions you can ask yourself to make sure you have fully evidenced B
 - Can you explain how you researched a new skill in order to complete your project as the result of a minor, unexpected change?
 - Can you explain how you took responsibility for a piece of work that sits within a wider business/team context?
 
-### <a name="B3">B3 (AM1)</a>
+### B3 (AM1) <a id="B3"></a>
 
 | Standard | Grading Criteria | Distinction |
 |:---------|:-----------------|:------------|
@@ -655,7 +655,7 @@ Below are questions you can ask yourself to make sure you have fully evidenced B
 - How do you balance taking initiative with seeking guidance?
 - What strategies do you use to ensure effective collaboration in a remote or hybrid work environment?
 
-### <a name="B4">B4 (AM1)</a>
+### B4 (AM1) <a id="B4"></a>
 
 | Standard | Grading Criteria | Distinction |
 |:---------|:-----------------|:------------|
@@ -679,7 +679,7 @@ Below are questions you can ask yourself to make sure you have fully evidenced B
 - How do you ensure your conclusions are based on sound analytical reasoning? 
 - What are some alternative methods/tools you could have implemented to benefit all stakeholders?
 
-### <a name="B5">B5 (AM2)</a>
+### B5 (AM2) <a id="B5"></a>
 
 | Standard | Grading Criteria | Distinction |
 |:---------|:-----------------|:------------|
@@ -704,7 +704,7 @@ Below are questions you can ask yourself to make sure you have fully evidenced B
 - Can you explain the solution you implemented?
 - Can you explain how you ensured that you did not encounter this problem again?
 
-### <a name="B6">B6 (AM2)</a>
+### B6 (AM2) <a id="B6"></a>
 
 | Standard | Grading Criteria | Distinction |
 |:---------|:-----------------|:------------|
@@ -732,7 +732,7 @@ Below are questions you can ask yourself to make sure you have fully evidenced B
 - Can you explain how you demonstrated resilience by not giving up when you faced a problem?
 - What were the lessons learned from overcoming this challenge?
 
-### <a name="B7">B7 (AM2)</a>
+### B7 (AM2) <a id="B7"></a>
 
 | Standard | Grading Criteria | Distinction |
 |:---------|:-----------------|:------------|
