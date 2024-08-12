@@ -5,6 +5,11 @@
 
     /* Font Family is the way to assign a font to the webpage. However, you can also combine multiple fonts with a comma. This allows the browser to have a "backup" font if the initial isn't available.*/
     font-family: "Times New Roman", serif;
+
+    outline: 2px solid red;
+    padding: 10px;
+    border: 5px;
+    margin: 20px;
 }
 
 /* Putting an element type, will format that element e.g. you can use p, div, h1, etc */

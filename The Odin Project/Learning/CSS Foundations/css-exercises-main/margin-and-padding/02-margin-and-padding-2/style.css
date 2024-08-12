@@ -11,17 +11,28 @@ body {
 
 .title {
   background: #e3f4ff;
+  padding: 5px;
+  font-size: 20px; 
 }
 
 .content {
   background: #e3f4ff;
+  display: block;
+  padding: 18px
 }
 
 .button-container {
   background: #e3f4ff;
+  padding: 5px;
+  margin: 16px auto;
+  text-align: center;
 }
 
 button {
   background: white;
   border: 1px solid #eee;
+  display: block;
+  padding: 10px 30px;
+  margin: 0 auto;
+  display: block;
 }
