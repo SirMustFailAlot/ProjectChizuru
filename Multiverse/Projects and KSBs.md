@@ -1,7 +1,7 @@
 # Multiverse Projects and KSBs
 
 ## Background
-Throughout the Multiverse Apprenticeship, you will be working with Projects where you'll be expected to show a certain amount of Knowledge, Skills, and Behaviours.
+Throughout the Multiverse Apprenticeship, you will be working with Projects where you'll be expected to show a certain amount of Knowledge, Skills, and Behaviors.
 
 This document is to help aid with the creation of Projects and to ensure that we've not only met KSB standards but also exceed them.
 
@@ -11,13 +11,76 @@ This document is to help aid with the creation of Projects and to ensure that we
 - [Project Details](#Projects)
 
 ## Assessment Methods <a id="AssessmentMethods"></a>
-The way you will show the KSBs is through a main work-based project (Assessment Method 1) and through a series of projects within a portfolio (Assessment Method 2). Below is an explaination of each of the assessment methods.
+The way you will show the KSBs is through a main work-based project (Assessment Method 1) and through a series of projects within a portfolio (Assessment Method 2). Below is an explanation of each of the assessment methods.
 
 ### Assessment Method 1: Work-based Project
 AM1 (Project and Presentation, also known as the Work-Based Project): An 8-week project that you work on after you have submitted your portfolio. It is mapped against specific KSBs. Whilst completing the project, you will also have to produce a 3500-word report. On the day of your EPA interview, you will deliver a 20-minute presentation on your project, followed by 20 minutes of questions.
 
 ### Assessment Method 2: Portfolio Projects
 AM2 (Portfolio and Professional Discussion): This is a single document consisting of 2-10 pieces of evidence from projects. You will have from their Flying start until their Gateway meeting to complete this. It is mapped against specific KSBs. The Professional Discussion occurs after the submission of AM1 and consists of a 60-minute discussion of the portfolio.
+
+##### [<p style="text-align: right;">Return to Main Table of Contents</p>](#MainToC)
+## Assessment Method 2 - Project Evidences <a id="AM2"></a>
+Throughout the apprenticeship, we will need to complete Project Evidences at the end of each module. This will provide us a chance to demonstrate that we've understood the content.
+
+During the Projects, we will be asked roughly what the project should look like, what KSBs we need to meet, and we can then use the above to confirm we've met the KSBs.
+
+### Project Evidence #1 - My Role and the Data I work With
+### Format
+Written Professional Introduction
+
+#### Length
+500 Words + Evidence
+
+#### Standards
+- [K5](#B5) - Explains the differences between Structured and Unstructured data.
+- [B6](#B6) - Identifies and explains challenges in their work and how they overcame them, providing an outline of lessons learned. 
+- [B7](#B7) - Identifies areas of work where they adapted to changing contexts within the scope of a project, direction of the organization or Data Analyst role. 
+
+#### Why is this work important to me and my organisation?
+As a working progressional, it's important to be able to explain your current role not only to those within your business but others within the wider business landscape. By knowing your data and being able to discuss the type and how you currently utilise it, this will help aide setting standards and expectations within the business. This is important as it also fosters transparency and confidence within your work, thus building peoples trust and your own credibility.
+
+#### Why is this work important to my portfoilio?
+The introduction, I believe, can be one of the more important pieces of your portfolio. Doing a professional introduction promotes good presentation, structure, and helps set a tone for the rest of your portfolio.
+
+Doing so helps provide professionalism and guide the readers attention to your strongest work.
+
+#### What do I need to do for this work?
+The aim of this piece of work is to create an introduction for yourself, to the assessor.
+
+To aide with this, you can following the below structure:
+| Section | Prompt | Approx Word Count | KSB |
+|:--------|:-------|:------------------|:----|
+|Introduction | Introduce yourself, your role, team, and the business you work for. | 100 | N/A |
+| Type of Data | Provide insight into the type of data you work with, including its characteristics | 200 | K5 |
+| Potential challenges/ parameters | Address potential challenges encountered when working with the data. Alternatively, what are the parameters around the scope of your role? When do you need to be adaptable? | 150 | B6 + B7 |
+| Conclusion | Conclude with a strong statement showcasing your enthusiasm and dedication to data-driven contributions. | 50 | N/A |
+
+### Project Evidence #5 - Adapting and Staying Resilent in Your Role
+#### Format
+Written Report
+
+#### Length
+650 Words + Evidence
+
+#### Standards
+- [B6](#B6) resilient - viewing obstacles as challenges and learning from failure.
+- [B7](#B7) adaptable to changing contexts within the scope of a project,
+direction of the organisation or Data Analyst role.
+
+#### What do I need to do for this work?
+For this piece of evidence, you will identify a time in your apprenticeship when you needed to adapt and be resilient. Share how you overcame these challenges and what you learned from the situation. 
+
+Identify how you currently apply adaptability and resiliency in your role or identify a time in the past that occurred while you were on your apprenticeship. 
+
+You will submit one write-up for your evidence that will map to the KSBs below. The KSB mapping below is just a guide and you can choose to cite your KSBs based on your approach to completing the task.
+
+| Section | Prompt | Approx Word Count | KSB |
+|:--------|:-------|:------------------|:----|
+|Introduction - Situation | Include details like the context of the project (how it came up) and your role. | 50 | N/A |
+| Set the scene - Task | Explain the problem you were asked to solve, why it was important to your business, and your approach to the analysis, including what you did thus far. | 100 | N/A |
+| When did you need to adapt in your work and why? | Describe how you had to adapt in your project and/or role and why. For example, if the project scope, your work, or role changed what did you do to adapt to the situation? What did you learn from the situation and how have you applied what you’ve learned in your role. | 150 | B7 |
+| When did you need to be resilient in your work and why? | Describe how you had to be resilient in your project and/or role and why. What challenges did you have to overcome and what lessons did you learn as a result? | 150 | B6 |
 
 ##### [<p style="text-align: right;">Return to Main Table of Contents</p>](#MainToC)
 ## KSBs  <a id="KSBs"></a>
@@ -793,38 +856,3 @@ Below are questions you can ask yourself to make sure you have fully evidenced B
 - Can you explain how you’ve adapted to changes in your daily responsibilities at work as a result of learning new skills/techniques? Perhaps you now have new responsibilities in your day-to-day role, that you didn’t have before starting the apprenticeship? How do you manage these new responsibilities?
 
 ##### [<p style="text-align: right;">Return to KSB Table of Contents</p>](#KSBToC)
-##### [<p style="text-align: right;">Return to Main Table of Contents</p>](#MainToC)
-## Assessment Method 2 - Project Evidences <a id="AM2"></a>
-Throughout the apprenticeship, we will need to complete Project Evidences at the end of each module. This will provide us a chance to demostrate that we've understood the content.
-
-During the Projects, we will be asked roughly what the project should look like, what KSBs we need to meet, and we can then use the above to confirm we've met the KSBs.
-
-### Project Evidence #5
-
-#### Title
-Adapting and Staying Resilent in Your Role
-
-#### Format
-Written Report
-
-#### Length
-650 Words + Evidence
-
-#### Standards
-- [B6](#B6) resilient - viewing obstacles as challenges and learning from failure.
-- [B7](#B7) adaptable to changing contexts within the scope of a project,
-direction of the organisation or Data Analyst role.
-
-#### What do I need to do for this work?
-For this piece of evidence, you will identify a time in your apprenticeship when you needed to adapt and be resilient. Share how you overcame these challenges and what you learned from the situation. 
-
-Identify how you currently apply adaptability and resiliency in your role or identify a time in the past that occurred while you were on your apprenticeship. 
-
-You will submit one write-up for your evidence that will map to the KSBs below. The KSB mapping below is just a guide and you can choose to cite your KSBs based on your approach to completing the task.
-
-| Section | Prompt | Approx Word Count | KSB |
-|:--------|:-------|:------------------|:----|
-|Introduction - Situation | Include details like the context of the project (how it came up) and your role. | 50 | N/A |
-| Set the scene - Task | Explain the problem you were asked to solve, why it was important to your business, and your approach to the analysis, including what you did thus far. | 100 | N/A |
-| When did you need to adapt in your work and why? | Describe how you had to adapt in your project and/or role and why. For example, if the project scope, your work, or role changed what did you do to adapt to the situation? What did you learn from the situation and how have you applied what you’ve learned in your role. | 150 | B7 |
-| When did you need to be resilient in your work and why? | Describe how you had to be resilient in your project and/or role and why. What challenges did you have to overcome and what lessons did you learn as a result? | 150 | B6 |

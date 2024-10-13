@@ -1,0 +1,9 @@
+* {
+    display: flex;
+}
+
+.one {
+    height: 100px;
+    flex: 1;
+    background-color: teal;
+}
